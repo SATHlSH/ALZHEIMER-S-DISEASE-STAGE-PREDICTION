@@ -34,10 +34,19 @@ Alzheimer’s App is a deep learning–based web application that predicts the s
 
 # Getting Started
 ###1. Clone the Repository
-git clone https://github.com/your-username/alzheimers-app.git
-cd alzheimers-app
+<pre>git clone https://github.com/your-username/alzheimers-app.git
+cd alzheimers-app</pre>
 ###2. Install Dependencies
-pip install -r requirements.txt
+<pre>pip install -r requirements.txt<pre>
 ###3. Run the App
 <pre>python app.py</pre>
 Then open your browser and go to http://localhost:5000
+
+# Dataset
+The model is trained on the publicly available Alzheimer’s MRI Dataset from Kaggle.
+
+# Future Improvements
+- Include Grad-CAM visualizations
+- Add multi-image upload and batch predictions
+- Deploy using Heroku / Render / AWS
+- Add user login and history tracking
