@@ -10,7 +10,9 @@ Alzheimer’s App is a deep learning–based web application that predicts the s
 - Simple and responsive frontend
 - Trained on Kaggle’s Alzheimer’s MRI dataset
 - Flask or Streamlit backend for model integration
+  
   ---
+  
 # Tech Stack
 ### Machine Learning
 - Python, TensorFlow, Keras
