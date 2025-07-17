@@ -53,7 +53,7 @@ Then open your browser and go to http://localhost:5000
 ---
 
 # Dataset
-The model is trained on the publicly available Alzheimer’s MRI Dataset from Kaggle.
+The model is trained on the publicly available Alzheimer’s MRI Dataset from *Kaggle*.
 
 ---
 
