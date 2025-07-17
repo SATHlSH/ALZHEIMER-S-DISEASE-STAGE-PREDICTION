@@ -37,7 +37,7 @@ Alzheimer’s App is a deep learning–based web application that predicts the s
 <pre>git clone https://github.com/your-username/alzheimers-app.git
 cd alzheimers-app</pre>
 ###2. Install Dependencies
-<pre>pip install -r requirements.txt<pre>
+<pre>pip install -r requirements.txt</pre>
 ###3. Run the App
 <pre>python app.py</pre>
 Then open your browser and go to http://localhost:5000
