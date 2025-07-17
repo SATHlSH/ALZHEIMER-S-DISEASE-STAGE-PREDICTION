@@ -50,3 +50,6 @@ The model is trained on the publicly available Alzheimer’s MRI Dataset from Ka
 - Add multi-image upload and batch predictions
 - Deploy using Heroku / Render / AWS
 - Add user login and history tracking
+
+ # License
+This project is licensed under the MIT License – see the LICENSE file for details.
